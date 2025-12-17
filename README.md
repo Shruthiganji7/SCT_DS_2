@@ -23,4 +23,5 @@ Key Insights
 - Higher fare increased survival chances  
 
 Conclusion
+
 This project demonstrates the importance of exploratory data analysis in understanding datasets and extracting meaningful insights. The findings from this analysis can be used as a foundation for further machine learning modeling.
